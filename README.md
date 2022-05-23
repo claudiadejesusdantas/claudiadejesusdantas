@@ -1,7 +1,7 @@
 ## Olá! Eu sou Claudia Dantas  ## 
  
 ### Formação Acadêmica	
-- Tecnologia da Informação(Bacharel) - UNIVESP
+- Gestão de Pessoas - Faculdade das Américas
 
 <hr>
 
