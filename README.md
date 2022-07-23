@@ -1,4 +1,4 @@
-## Olá! Eu sou Claudia Dantas  ## 
+## Olá! Eu sou Claudia de Jesus Dantas  ## 
  
 ### Formação Acadêmica	
 - Gestão de Pessoas - Faculdade das Américas
