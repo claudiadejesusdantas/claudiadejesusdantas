@@ -1,8 +1,8 @@
 ## Olá! Eu sou Claudia de Jesus Dantas  ## 
  
 ### Formação Acadêmica	
-- Gestão de Tecnologia da Informação - Fatec Itaquaquecetuba (cursando...)
-- Gestão de Pessoas - Faculdade das Américas (2015)
+- Gestão de Tecnologia da Informação - Fatec Itaquaquecetuba - Conclusão: 2024
+- Gestão de Pessoas - Faculdade das Américas - Conclusão: 2015
 
 
 <hr>
