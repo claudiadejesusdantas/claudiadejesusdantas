@@ -1,7 +1,7 @@
-## Olá! Eu sou Claudia de Jesus Dantas  ## 
+# Hello! I'm Claudia  # 
  
-### Formação Acadêmica	
-- Gestão de Pessoas - Faculdade das Américas - Conclusão: 2015
+### Academic Formation:
+- Human Resource Management - College: Faculdade das Américas (2014 - 2015)
 
 
 <hr>
