@@ -61,5 +61,5 @@
 </div>
 
 
-![Snake animation](https://github.com/claudiadejesusdantas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/claudiadejesusdantas/claudiadejesusdantas/blob/output/github-contribution-grid-snake.svg)
 
