@@ -1,11 +1,17 @@
-# Hello! I'm Claudia ☕ # 
+<div align="center">
+<h1>Hello! I'm Claudia ☕</h1> 
+</div> 
 
-### Student front-end 
 
-<div>
+<div align="center">
+<h2> 💻 Student front-end 💻 </h2> 
+</div> 
 
-<img align="center"  alt="desenho versão anime de garota parda, com cabelos vermelhos segurando uma bebida"  src="https://picrew.me/shareImg/org/202209/338224_I85xdAJw.png"> 
-</div>
+<div align="center">
+<img alt="desenho versão anime de garota parda, com cabelos vermelhos segurando uma bebida"  src="https://picrew.me/shareImg/org/202209/338224_I85xdAJw.png"> 
+</div> 
+
+
 
 <div align="center">
   <a href="https://github.com/claudiadejesusdantas">
@@ -25,11 +31,6 @@
 
 <img align="center" alt="Java logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 
-
-
- 
-
-  
   
 <br>
 <br>
@@ -56,13 +57,9 @@
 
 <a href="https://twitter.com/claudiadjdantas" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-
-
-
- 
- <hr> 
-
-
- 	 
  	 
 </div>
+
+
+![Snake animation](https://github.com/claudiadejesusdantas/blob/output/github-contribution-grid-snake.svg)
+
