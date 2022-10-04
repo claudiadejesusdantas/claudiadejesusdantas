@@ -8,7 +8,7 @@
 </div> 
 
 <div align="center">
-<img alt="desenho versão anime de garota parda, com cabelos vermelhos segurando uma bebida"  src="https://picrew.me/shareImg/org/202209/338224_I85xdAJw.png"> 
+<img alt="desenho versão anime de garota parda, com cabelos vermelhos segurando uma bebida"  src="https://picrew.me/shareImg/org/202210/338224_iTL6V94z.png"> 
 </div> 
 
 
