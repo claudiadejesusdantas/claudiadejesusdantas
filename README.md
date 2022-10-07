@@ -3,6 +3,22 @@
   <h3> 💻 Student front-end 💻 </h3> 
 </div> 
 
+<div align="center">
+
+<img alt="HTML 5 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img alt="CSS 3 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img alt="Javascript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img alt="Java logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+
+</div>
+
+
+<div align="center">
+  <img alt="desenho versão anime de garota parda, com cabelos vermelhos segurando uma bebida"  
+  src="https://picrew.me/shareImg/org/202210/338224_tbAJPBs2.png"> 
+</div> 
+
+
 <div align="center"> 
   <a href="https://www.instagram.com/claudiadejesusdantascar/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,21 +43,13 @@
  	 
 </div>
 
-
 <div align="center">
-  <img alt="desenho versão anime de garota parda, com cabelos vermelhos segurando uma bebida"  
-  src="https://picrew.me/shareImg/org/202210/338224_tbAJPBs2.png"> 
-</div> 
-
-
-<div align="center">
-
-<img alt="HTML 5 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img alt="CSS 3 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img alt="Javascript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="Java logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-
+  <a href="https://github.com/claudiadejesusdantas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiadejesusdantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiadejesusdantas&layout=compact&langs_count=7&theme=radical"/>
+  
 </div>
+
 
 ![Snake animation](https://github.com/claudiadejesusdantas/claudiadejesusdantas/blob/output/github-contribution-grid-snake.svg)
 
