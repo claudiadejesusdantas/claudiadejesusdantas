@@ -10,10 +10,6 @@
   <img alt="Java logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 </div>
 
-
-![image](https://media2.giphy.com/media/11JTxkrmq4bGE0/giphy.gif?cid=ecf05e47va47epk92xto78inp7bxcsuq6b3wlyffdl0xe8qg&rid=giphy.gif&ct=g)
-
-
 <div align="center"> 
   <a href="https://www.instagram.com/claudiadejesusdantastudy/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,10 +34,15 @@
  	 
 </div>
 
-<div align="center">
+
+<!-- ![image](https://media2.giphy.com/media/11JTxkrmq4bGE0/giphy.gif?cid=ecf05e47va47epk92xto78inp7bxcsuq6b3wlyffdl0xe8qg&rid=giphy.gif&ct=g)
+ -->
+<div align="left">
   <a href="https://github.com/claudiadejesusdantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiadejesusdantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiadejesusdantas&layout=compact&langs_count=7&theme=radical"/>
+  <img width="500px" height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiadejesusdantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="500px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiadejesusdantas&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+-----------------------------------------------
+ 
 
