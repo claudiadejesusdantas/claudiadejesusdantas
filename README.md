@@ -37,7 +37,7 @@
 
 <!-- ![image](https://media2.giphy.com/media/11JTxkrmq4bGE0/giphy.gif?cid=ecf05e47va47epk92xto78inp7bxcsuq6b3wlyffdl0xe8qg&rid=giphy.gif&ct=g)
  -->
-<div align="left">
+<div align="center">
   <a href="https://github.com/claudiadejesusdantas">
   <img width="500px" height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiadejesusdantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="500px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiadejesusdantas&layout=compact&langs_count=7&theme=radical"/>
