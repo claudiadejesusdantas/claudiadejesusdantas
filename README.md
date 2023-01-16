@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hello! I'm Claudia ☕ </h1> 
-  <h3> 💻 Student front-end and back-end💻 </h3> 
+  <h3> 💻 front-end & back-end💻 </h3> 
 </div> 
 
 <div align="center">
