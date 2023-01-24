@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C2CBC&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C2CBC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+a+Claudia+de+Jesus+Dantas;Eu+estudo+programação+web!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
@@ -7,6 +5,15 @@
   <img alt="CSS 3 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img alt="Javascript logo" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=claudiadejesusdantas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiadejesusdantas&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Claudia de Jesus Dantas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiadejesusdantas&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -35,16 +42,7 @@
 </div>
 
 
------------------------------------------------
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=claudiadejesusdantas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiadejesusdantas&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Claudia de Jesus Dantas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiadejesusdantas&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
 
 -----------------------------------------------
