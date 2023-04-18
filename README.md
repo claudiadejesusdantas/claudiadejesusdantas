@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C2CBC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+hobbista+de+código.:%29)]
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC0C0C&size=20&center=true&vCenter=true&width=1000&lines=Estudo+Lógica,+Redes,+Web+e+um+monte+de+coisas.)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0C2CBC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+hobbista+de+código.:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC0C0C&size=20&center=true&vCenter=true&width=1000&lines=Estudo+Lógica,+Redes,+Web+e+um+monte+de+coisas.)
 
 <div align="center"> 
   <a href="https://www.instagram.com/claudiadejesusdantastudy/" target="_blank">
@@ -43,14 +43,14 @@
 <!-- MEU GIF FAVORITO -->
 <div align="center">
   <img height="500" width="500" src="https://media2.giphy.com/media/11JTxkrmq4bGE0/giphy.gif?cid=ecf05e47va47epk92xto78inp7bxcsuq6b3wlyffdl0xe8qg&rid=giphy.gif&ct=g">
-</div> -->
+</div>
 
-<!-- 
+
 <!-- TROFÉUS DO GITHUB -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=claudiadejesusdantas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> 
- -->
+ 
 
 
 
