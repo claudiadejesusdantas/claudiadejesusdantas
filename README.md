@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC0C0C&size=20&center=true&vCenter=true&width=1000&lines=Estudo+Lógica,+Redes,+Web+e+um+monte+de+coisas.)
 
 <div align="center"> 
-  <a href="https://www.instagram.com/claudiadejesusdantastudy/" target="_blank">
+  <a href="https://www.instagram.com/claudiadjdantas/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
   <a href="https://www.twitch.tv/claudiadejesusdantas" target="_blank">
