@@ -35,8 +35,8 @@
   <a href="https://www.twitch.tv/claudiadejesusdantas" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
-  <a href = "mailto:claudiadejesusdantas@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- <a href = "mailto:claudiadejesusdantas@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 
   <a href="https://codepen.io/claudiadejesusdantas" target="_blank">
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
